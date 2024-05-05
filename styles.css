@@ -10,10 +10,10 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(45deg, #030303ee, #3d3838);
+    background: linear-gradient(45deg, #222222ee, #292121);
 }
 .calculator{
-    border: 1px solid #717377;
+    border: 1px solid #8d8f92;
     padding: 20px;
     border-radius: 16px;
     background: transparent;
