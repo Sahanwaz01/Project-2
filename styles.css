@@ -10,14 +10,14 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(45deg, #030303ee, #624e4e);
+    background: linear-gradient(45deg, #030303ee, #3d3838);
 }
 .calculator{
     border: 1px solid #717377;
     padding: 20px;
     border-radius: 16px;
     background: transparent;
-    box-shadow: 0px 3px 15px rgba(133, 115, 119, 0.5);
+    box-shadow: 0px 3px 15px rgba(165, 136, 142, 0.5);
 }
 input{
     width: 320px;
